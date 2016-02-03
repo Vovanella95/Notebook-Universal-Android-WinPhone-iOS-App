@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>EPBYBREW0014</Machine>
+    <WindowsUser>Uladzimir_Paliukhovi</WindowsUser>
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows Phone 8.1</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>d36ec49a-4110-40c1-a73c-9a14f7a789f9</PackageIdentityName>
+    <IntermediateOutputPath>D:\TestApp\Notebook\Notebook.WP\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="D:\TestApp\Notebook\Notebook.WP\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="D:\TestApp\Notebook\Notebook.WP\bin\Debug\Notebook.WP.exe">
+      <PackagePath>Notebook.WP.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\TestApp\Notebook\packages\MvvmCross.Binding.4.0.0-beta8\lib\dotnet\MvvmCross.Binding.dll">
+      <PackagePath>MvvmCross.Binding.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\TestApp\Notebook\packages\MvvmCross.Core.4.0.0-beta8\lib\wpa81\MvvmCross.Core.dll">
+      <PackagePath>MvvmCross.Core.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\TestApp\Notebook\packages\MvvmCross.Platform.4.0.0-beta8\lib\wpa81\MvvmCross.Localization.dll">
+      <PackagePath>MvvmCross.Localization.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\TestApp\Notebook\packages\MvvmCross.Platform.4.0.0-beta8\lib\wpa81\MvvmCross.Platform.dll">
+      <PackagePath>MvvmCross.Platform.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\TestApp\Notebook\packages\MvvmCross.Platform.4.0.0-beta8\lib\wpa81\MvvmCross.Platform.WindowsCommon.dll">
+      <PackagePath>MvvmCross.Platform.WindowsCommon.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\TestApp\Notebook\packages\MvvmCross.Plugin.File.4.0.0-beta8\lib\wpa81\MvvmCross.Plugins.File.dll">
+      <PackagePath>MvvmCross.Plugins.File.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\TestApp\Notebook\packages\MvvmCross.Plugin.File.4.0.0-beta8\lib\wpa81\MvvmCross.Plugins.File.WindowsCommon.dll">
+      <PackagePath>MvvmCross.Plugins.File.WindowsCommon.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\TestApp\Notebook\packages\MvvmCross.Plugin.Json.4.0.0-beta8\lib\wpa81\MvvmCross.Plugins.Json.dll">
+      <PackagePath>MvvmCross.Plugins.Json.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\TestApp\Notebook\packages\MvvmCross.Core.4.0.0-beta8\lib\wpa81\MvvmCross.WindowsCommon.dll">
+      <PackagePath>MvvmCross.WindowsCommon.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\TestApp\Notebook\packages\Newtonsoft.Json.8.0.2\lib\portable-net45+wp80+win8+wpa81+dnxcore50\Newtonsoft.Json.dll">
+      <PackagePath>Newtonsoft.Json.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\TestApp\Notebook\Notebook.Core\bin\Debug\Notebook.Core.dll">
+      <PackagePath>Notebook.Core.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\TestApp\Notebook\Notebook.Models\bin\Debug\Notebook.Models.dll">
+      <PackagePath>Notebook.Models.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\TestApp\Notebook\Notebook.Core\bin\Debug\Notebook.Services.dll">
+      <PackagePath>Notebook.Services.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\TestApp\Notebook\Notebook.WP\Assets\Logo.scale-240.png">
+      <PackagePath>Assets\Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\TestApp\Notebook\Notebook.WP\Assets\SmallLogo.scale-240.png">
+      <PackagePath>Assets\SmallLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\TestApp\Notebook\Notebook.WP\Assets\SplashScreen.scale-240.png">
+      <PackagePath>Assets\SplashScreen.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\TestApp\Notebook\Notebook.WP\Assets\Square71x71Logo.scale-240.png">
+      <PackagePath>Assets\Square71x71Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\TestApp\Notebook\Notebook.WP\Assets\StoreLogo.scale-240.png">
+      <PackagePath>Assets\StoreLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\TestApp\Notebook\Notebook.WP\Assets\WideLogo.scale-240.png">
+      <PackagePath>Assets\WideLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\TestApp\Notebook\Notebook.WP\bin\Debug\Notebook.WP.xr.xml">
+      <PackagePath>Notebook.WP.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\TestApp\Notebook\Notebook.WP\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\TestApp\Notebook\Notebook.WP\bin\Debug\Views\CreateEditView.xbf">
+      <PackagePath>Views\CreateEditView.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\TestApp\Notebook\Notebook.WP\bin\Debug\Views\DetailsView.xbf">
+      <PackagePath>Views\DetailsView.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\TestApp\Notebook\Notebook.WP\bin\Debug\Views\FirstView.xbf">
+      <PackagePath>Views\FirstView.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\TestApp\Notebook\Notebook.WP\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

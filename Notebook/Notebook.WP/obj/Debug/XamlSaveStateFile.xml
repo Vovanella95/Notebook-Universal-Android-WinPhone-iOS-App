@@ -1,0 +1,17 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+    <LocalAssembly PathName="d:\testapp\notebook\notebook.wp\obj\debug\intermediatexaml\notebook.wp.exe" HashGuid="29b319c3-15cc-4284-e8e0-8c51634cd251" />
+    <ReferenceAssembly PathName="d:\testapp\notebook\packages\mvvmcross.binding.4.0.0-beta8\lib\dotnet\mvvmcross.binding.dll" HashGuid="5dfa1177-5d32-f83a-a7d2-81d46c7c484d" />
+    <ReferenceAssembly PathName="d:\testapp\notebook\packages\mvvmcross.core.4.0.0-beta8\lib\wpa81\mvvmcross.core.dll" HashGuid="093439d9-5e68-bf57-a699-b77c727230f0" />
+    <ReferenceAssembly PathName="d:\testapp\notebook\packages\mvvmcross.platform.4.0.0-beta8\lib\wpa81\mvvmcross.localization.dll" HashGuid="838f47e1-fa5b-4669-7ad9-be1e2cbb7357" />
+    <ReferenceAssembly PathName="d:\testapp\notebook\packages\mvvmcross.platform.4.0.0-beta8\lib\wpa81\mvvmcross.platform.dll" HashGuid="f34616af-7bd1-532a-6e5b-dd29090f38bb" />
+    <ReferenceAssembly PathName="d:\testapp\notebook\packages\mvvmcross.platform.4.0.0-beta8\lib\wpa81\mvvmcross.platform.windowscommon.dll" HashGuid="0d2d3742-6c74-6fa4-8128-2f7a3fda78ad" />
+    <ReferenceAssembly PathName="d:\testapp\notebook\packages\mvvmcross.plugin.file.4.0.0-beta8\lib\wpa81\mvvmcross.plugins.file.dll" HashGuid="04b43bb9-0809-5b6c-4e7c-6f5ab13d12e5" />
+    <ReferenceAssembly PathName="d:\testapp\notebook\packages\mvvmcross.plugin.file.4.0.0-beta8\lib\wpa81\mvvmcross.plugins.file.windowscommon.dll" HashGuid="20be9aa5-ec84-19b4-9f09-7ef5df1a8ffe" />
+    <ReferenceAssembly PathName="d:\testapp\notebook\packages\mvvmcross.plugin.json.4.0.0-beta8\lib\wpa81\mvvmcross.plugins.json.dll" HashGuid="e7d93263-b56a-318f-fb91-513719ec3c4e" />
+    <ReferenceAssembly PathName="d:\testapp\notebook\packages\mvvmcross.core.4.0.0-beta8\lib\wpa81\mvvmcross.windowscommon.dll" HashGuid="67493d55-766c-65f2-5c70-60a35357738f" />
+    <ReferenceAssembly PathName="d:\testapp\notebook\packages\newtonsoft.json.8.0.2\lib\portable-net45+wp80+win8+wpa81+dnxcore50\newtonsoft.json.dll" HashGuid="38db4215-06d8-4b50-81fc-8e6b502244af" />
+    <ReferenceAssembly PathName="d:\testapp\notebook\notebook.core\bin\debug\notebook.core.dll" HashGuid="5964103a-7350-431d-a84c-8f9b68e00c9a" />
+    <ReferenceAssembly PathName="d:\testapp\notebook\notebook.models\bin\debug\notebook.models.dll" HashGuid="a01f283b-5287-bc40-1606-198a3941e65d" />
+  </ReferenceAssemblyList>
+</XamlCompilerSaveState>

@@ -1,0 +1,5 @@
+D:\TestApp\Notebook\Notebook.Core\Notebook.Core.csproj;neutral
+D:\TestApp\Notebook\Notebook.Models\Notebook.Models.csproj;neutral
+D:\TestApp\Notebook\Notebook.Models\Notebook.Models.csproj;neutral
+D:\TestApp\Notebook\Notebook.Services\Notebook.Services.csproj;neutral
+D:\TestApp\Notebook\Notebook.WP\Notebook.WP.csproj;neutral
